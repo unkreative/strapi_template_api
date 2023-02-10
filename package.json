@@ -23,8 +23,6 @@
   "strapi": {
     "uuid": "b9a742f6-afed-4ac0-8017-37529eb48ffd"
   },
-  "engines": {
-    
-  },
+  "engines": {},
   "license": "MIT"
 }
